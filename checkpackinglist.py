@@ -10,3 +10,6 @@ item_index = packing_list.index(item_to_check) if is_item_packed else -1
 # Print out the results
 print("Is the item packed?", is_item_packed)
 print("Item index:", item_index)
+
+
+#python practice yay!
